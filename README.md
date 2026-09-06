@@ -20,3 +20,6 @@ The simulation pipeline consists of 11 integrated scripts. They must be run in t
 ## Requirements
 - MATLAB (Tested on R2018a and R2024b)
 - Optimization Toolbox (for `fmincon`)
+
+## Author
+**Nwokemodo Martins 210403505** 
