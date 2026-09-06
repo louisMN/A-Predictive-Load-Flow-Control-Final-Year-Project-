@@ -1,4 +1,4 @@
-# Load-Aware MPC Control of a GUPFC on the IEEE 30-Bus System
+# A Predictive Load Flow Control in Contingency-Affected Power Systems Using FRT Enhanced GUPFC and MPC
 
 This repository contains the complete MATLAB source code for a Final Year Project investigating the performance of a Fault-Ride-Through (FRT) enhanced Generalized Unified Power Flow Controller (GUPFC) with Model Predictive Control (MPC) under predictive (time-varying) load conditions.
 
